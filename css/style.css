@@ -47,6 +47,16 @@ body{
     background-color: #6C63FF;
     border-color: #6C63FF;
     width: 100%;
+    margin-top: 25px;
+}
+
+#form-container input[type="checkbox"]:checked{
+    background-color: #6C63FF;
+    border-color: #6C63FF;
+}
+
+#form-container input[type="checkbox"]{
+    box-shadow: none;
 }
 
 .row.align-items-center{
