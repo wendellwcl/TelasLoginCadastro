@@ -1,2 +1,3 @@
-# Login-Cadastro
-Telas de login e cadastro com bootstrap
+# Telas de Login & Cadastro
+
+Projeto focado na utilização de **formulário**, parte integrante do curso de **bootstrap**.
